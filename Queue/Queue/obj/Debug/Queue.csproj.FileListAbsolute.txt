@@ -1,0 +1,70 @@
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.pdb
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.Form1.resources
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\Interop.MSComctlLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\Interop.SystemMonitor.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\AxInterop.SystemMonitor.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Interop.SystemMonitor.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\AxInterop.SystemMonitor.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.csproj.ResolveComReference.cache
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.Menu.resources
+C:\Users\Сонька и Санька\source\repos\Queue\Queue\obj\Debug\Queue.Admin.resources
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\Interop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\Interop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\AxInterop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\bin\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Interop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Interop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\AxInterop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\AxInterop.UnityWebPlayerAXLib.dll
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.csproj.ResolveComReference.cache
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.Admin.resources
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.Form1.resources
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.Menu.resources
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.pdb
+C:\Users\Сонька и Санька\Desktop\Queue\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\Queue.exe.config
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\Queue.exe
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\Queue.pdb
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\Interop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\Interop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\bin\Debug\AxInterop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Interop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\AxInterop.SystemMonitor.dll
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.csproj.ResolveComReference.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.Admin.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.Form1.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.Menu.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.exe
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\Queue\Queue\obj\Debug\Queue.pdb

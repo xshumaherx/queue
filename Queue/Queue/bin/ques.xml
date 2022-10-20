@@ -1,0 +1,83 @@
+﻿<?xml version="1.0"?>
+<ArrayOfProblem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Problem>
+    <question>Можно ли реализовать очередь, использую контейнер данных "Список"?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Да</answer1>
+    <answer2>Нет</answer2>
+    <answer3>Нет ответа</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Может ли очередь содержать один элемент?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>Нет</answer1>
+    <answer2>Да</answer2>
+    <answer3>Да, но только при размере элемента 1 байт</answer3>
+    <answer4>Да, но только при размере элемента меньше 1 Кб</answer4>
+  </Problem>
+  <Problem>
+    <question>Сложность операции enqueue в очереди?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>O(n)</answer1>
+    <answer2>O(1)</answer2>
+    <answer3>O(logn)</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Сложность операции dequeue в очереди?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>O(logn)</answer1>
+    <answer2>O(1)</answer2>
+    <answer3>O(n)</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Могут ли в очереди быть элементы структурного типа?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Да</answer1>
+    <answer2>Да, но с большими ограничениями по использованию памяти</answer2>
+    <answer3>Нет</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Могут ли в очереди быть элементы с одинаков полем данных?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Да</answer1>
+    <answer2>Да, но с большими ограничениями по использованию памяти и процессорных ресурсов</answer2>
+    <answer3>Нет</answer3>
+    <answer4>Любой из вариантов</answer4>
+  </Problem>
+  <Problem>
+    <question>Можно ли удалить произвольный элемент очереди за одну операцию?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Нет</answer1>
+    <answer2>Да</answer2>
+    <answer3>Да, если очередь построена на массиве</answer3>
+    <answer4>Да, если очередь построена на списке</answer4>
+  </Problem>
+  <Problem>
+    <question>Можно ли организовать очередь на динамичском массиве?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Да</answer1>
+    <answer2>Нет</answer2>
+    <answer3>Да, но скорость работы с подобным контейнером данных уменьшится на порядки</answer3>
+    <answer4>Да, но выделяемая память для такого контейнера данных увеличится на порядки</answer4>
+  </Problem>
+  <Problem>
+    <question>Нужно ли перемещать элементы в массиве (на основе которого построена очередь) при удалении элемента?</question>
+    <trueAnswer>OptionD</trueAnswer>
+    <answer1>Да, когда очередь пуста</answer1>
+    <answer2>Да</answer2>
+    <answer3>Да, когда очередь заполена</answer3>
+    <answer4>Нет</answer4>
+  </Problem>
+  <Problem>
+    <question>Нужно ли перемещать элементы в массиве (на основе которого построена очередь) при добавлении элемента?</question>
+    <trueAnswer>OptionC</trueAnswer>
+    <answer1>Да, когда очередь заполена</answer1>
+    <answer2>Да</answer2>
+    <answer3>Нет</answer3>
+    <answer4>Да, когда очередь пуста</answer4>
+  </Problem>
+</ArrayOfProblem>
